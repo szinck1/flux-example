@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     run: nginx
+    app: my-nginx
   name: nginx
 spec:
   replicas: 1
